@@ -1,6 +1,6 @@
 name: azure
 title: Azure Logs
-version: 1.17.1-preview01
+version: 1.18.0
 description: This Elastic integration collects logs from Azure
 type: integration
 icons:

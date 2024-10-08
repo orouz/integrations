@@ -1,4 +1,4 @@
-- version: "1.17.1-preview01"
+- version: "1.18.0"
   changes:
     - description: "Add entity identifiers to `related.entity`"
       type: enhancement
